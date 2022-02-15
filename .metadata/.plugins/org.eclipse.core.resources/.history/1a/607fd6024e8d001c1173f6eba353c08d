@@ -1,0 +1,11 @@
+package d;
+
+public class D5_Loops_in_Java_02_For_Loop 
+{
+
+	public static void main(String[] args) 
+	{
+		
+	}
+
+}

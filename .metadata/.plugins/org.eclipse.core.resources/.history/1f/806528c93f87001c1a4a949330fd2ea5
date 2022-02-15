@@ -1,0 +1,10 @@
+package school;
+
+public class teachers 
+{
+	public static void main(String args[])
+	{
+		teachers te=new teachers();
+		System.out.println(pr.bs+40000);
+	}
+}

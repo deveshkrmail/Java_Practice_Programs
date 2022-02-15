@@ -1,0 +1,11 @@
+package a_ARRAY;
+
+public class Sort_the_array_without_Sorting 
+{
+
+	public static void main(String[] args) 
+	{
+		
+	}
+
+}

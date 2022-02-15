@@ -1,0 +1,28 @@
+package nineth;
+
+public class P148Q32
+{
+
+	public static void main(String args[])
+	{
+		int d,p=0,n01=2867;
+		while(n01>0)
+		{
+			d=n01%10;
+			if(d%2==0)
+			{
+				p=2;
+			}
+			else 
+			{
+				p=3;
+			}
+			n01=n01/10;
+		}
+		if(p==3)
+			System.out.println("All digits are not EVEN.");
+		
+
+	}
+
+}

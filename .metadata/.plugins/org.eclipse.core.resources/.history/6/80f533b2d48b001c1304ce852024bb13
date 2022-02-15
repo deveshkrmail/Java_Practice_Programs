@@ -1,0 +1,11 @@
+package b_STRING;
+
+public class b_Two_Strings 
+{
+
+	public static void main(String[] args) 
+	{
+		
+	}
+
+}

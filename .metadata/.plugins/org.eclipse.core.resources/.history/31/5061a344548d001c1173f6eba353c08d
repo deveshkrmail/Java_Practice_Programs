@@ -1,0 +1,15 @@
+package e;
+
+public class E1_Java_Unary_Operators_01 
+{
+
+	public static void main(String[] args) 
+	{
+		int num01=8,num02;
+		
+		System.out.println("01. Unary Minus");
+		num02=-num01;
+		System.out.println(num02);
+	}
+
+}

@@ -1,0 +1,20 @@
+package nineth;
+import java.util.*;
+public class P147Q31 {
+
+	public static void main(String[] args) 
+	{
+		Scannner sc=new Scanner(System.in);
+		System.out.println("Please enter an integer:	\n");
+		int n01=sc.nextInt();
+		while(n01>0)
+		{
+			int d=n01%10;
+			if(d%2==0)
+				System.out.println(d);
+			n01=n01/10;
+		}
+		
+	}
+
+}

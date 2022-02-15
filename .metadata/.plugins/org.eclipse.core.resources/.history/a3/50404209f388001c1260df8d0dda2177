@@ -1,0 +1,8 @@
+package encapsulation;
+
+public class Test01 
+{
+private int a;
+
+public void get();
+}

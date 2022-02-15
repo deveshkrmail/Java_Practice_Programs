@@ -1,0 +1,31 @@
+package a_method_overloading;
+
+public class A_method_overloading 
+{
+	int sum(int a,int b)
+	{
+		return (a+b);
+	}
+	
+	float sum(float a, float b)
+	{
+		return (a+b);
+	}
+	
+	int sum(int a, int b, int c)
+	{
+		return (a+b+c);
+	}
+	
+	float sum(float a, float b, float c)
+	{
+		return(a+b+c);
+	}
+	
+	public static void main(String args[])
+	{
+		A_method_overloading mol=new A_method_overloading();
+		System.println(mol.sum(10, 20));
+	}
+	
+}

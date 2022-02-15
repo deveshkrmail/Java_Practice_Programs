@@ -1,0 +1,11 @@
+package school;
+
+public class vice_principal extends employee
+{
+	public static void main(String args[])
+	{
+		vice_principal vp=new principal();
+		System.out.println(pr.bs+60000);
+	}
+
+}

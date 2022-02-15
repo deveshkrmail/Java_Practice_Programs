@@ -1,0 +1,11 @@
+package nineth;
+import java.util.*;
+public class P147Q31 {
+
+	public static void main(String[] args) 
+	{
+		Scannner sc=new Scanner(System.in);
+		
+	}
+
+}

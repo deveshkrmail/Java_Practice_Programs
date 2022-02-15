@@ -1,0 +1,12 @@
+package scope;
+
+public class Class_Variables 
+{
+
+	public static void main(String[] args) 
+	{
+		int x=10000;
+		System.out.println(x);
+	}
+	System.out.println(x);
+}

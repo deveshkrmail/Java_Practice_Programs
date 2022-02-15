@@ -1,0 +1,14 @@
+package encapsulation;
+
+public class Test02 
+{
+
+	public static void main(String[] args) 
+	{
+	Test01 t01=new Test01();
+	t01.seta(100);
+	int z=t01.getA();
+	System.out.println(z);
+	}
+
+}

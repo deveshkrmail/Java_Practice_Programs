@@ -1,0 +1,10 @@
+package b;
+
+public class B3_Data_types_in_Java_1_boolean {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

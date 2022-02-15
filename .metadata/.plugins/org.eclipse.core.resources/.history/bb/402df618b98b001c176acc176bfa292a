@@ -1,0 +1,18 @@
+package twelveth;
+
+public class P234Q_Input_Stream_a_INTEGER_TYPE 
+{
+
+	public static void main(String[] args)
+	{
+		int i,sum=0;
+		int integer[5];
+		Scanner sc=new Scanner(System.in);
+		System.out.println("Enter five numbers:	");
+		for(i=0;i<5;i++)
+		{
+			
+		}
+	}
+
+}

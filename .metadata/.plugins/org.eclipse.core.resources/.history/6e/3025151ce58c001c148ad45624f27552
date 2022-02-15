@@ -1,0 +1,18 @@
+package b;
+
+public class B7_Variables_in_Java 
+{
+
+	public static void main(String[] args) 
+	{
+		int mx01=7;
+		System.out.println(mx01);
+		
+		{
+			mx02=8;
+			System.out.println(mx02);
+		}
+
+	}
+
+}

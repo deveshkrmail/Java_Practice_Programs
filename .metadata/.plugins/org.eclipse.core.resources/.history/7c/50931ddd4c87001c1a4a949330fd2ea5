@@ -1,0 +1,10 @@
+package a_method_overloading;
+
+public class B_not_method_overloading {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

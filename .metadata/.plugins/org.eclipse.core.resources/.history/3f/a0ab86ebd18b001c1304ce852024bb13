@@ -1,0 +1,10 @@
+package basic;
+
+public class b4_ARMSTRONG_NUMBER {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
